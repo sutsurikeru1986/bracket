@@ -9,6 +9,9 @@ this nice addition of a tournament brackets
 
 Primarily focused on Starcraft II, we plan on adding more support for League of Legends and may even add Dota 2 support.
 
+Example of this in action: http://stenigma.co.uk/ae/asus-rog-summer-2012/
+
+
 =======
 
 Developed by Steven Elison (stenigma.co.uk) and Daniel Whiteside (sutsurikeru.com)
