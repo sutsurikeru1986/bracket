@@ -14,4 +14,4 @@ Example of this in action: http://stenigma.co.uk/ae/asus-rog-summer-2012/
 
 =======
 
-Developed by Steven Elison (stenigma.co.uk) and Daniel Whiteside (sutsurikeru.com)
+Developed by Steven Ellison (stenigma.co.uk) and Daniel Whiteside (sutsurikeru.com)
